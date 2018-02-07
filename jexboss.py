@@ -807,7 +807,7 @@ def banner():
     """
     Print the banner
     """
-    clear()
+    #clear()
     print_and_flush(RED1 + "\n * --- JexBoss: Jboss verify and EXploitation Tool  --- *\n"
                  " |  * And others Java Deserialization Vulnerabilities * | \n"
                  " |                                                      |\n"
